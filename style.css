@@ -27,11 +27,11 @@ body{
     font-size: 3vh;
 }
 .video{
-   width: 50vw;
-   height: 30vw;
+   width: 40vw;
+   height: 20vw;
 }
 .blurb{
   width: 50vw;
   margin: 0 auto;
-  font-size: 3vw;
+  font-size: 2vh;
 }
