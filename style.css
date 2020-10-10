@@ -5,7 +5,8 @@ body{
     background-color:rgb(237, 157, 38);
     margin-left:0vw;
     width:75vw;
-    height:110vh;
+    height:auto;
+    min-height: 110vh;
     padding-top:-12vh;
 
 }
@@ -27,7 +28,7 @@ body{
 }
 .video{
    width: 50vw;
-   height: 50vw;
+   height: 30vw;
 }
 .blurb{
   width: 50vw;
