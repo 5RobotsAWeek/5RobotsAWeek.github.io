@@ -25,6 +25,10 @@ body{
     text-align:center;
     font-size: 3vh;
 }
+.video{
+  width: 560;
+  margin: 0 auto;
+}
 .blurb{
   width: 50vw;
   margin: 0 auto;
