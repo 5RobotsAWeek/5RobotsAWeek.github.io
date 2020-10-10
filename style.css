@@ -2,7 +2,7 @@ body{
     background-color:rgb(0,0,0);
 }
 a:visited{
-  color: orange;
+  color: inherit;
 }
 .main{
     background-color:rgb(237, 157, 38);
