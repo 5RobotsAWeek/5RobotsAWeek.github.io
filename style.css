@@ -31,6 +31,7 @@ body{
    height: 30vw;
    margin:0 auto;
    display: block;
+   padding-bottom:0;
 }
 .blurb{
   width: 50vw;
