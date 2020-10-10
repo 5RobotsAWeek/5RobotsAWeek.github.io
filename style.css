@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(0,0,0);
+}
+.main{
+    background-color:rgb(237, 157, 38);
+    margin-left:0vw;
+    width:75vw;
+    height:110vh;
+    padding-top:-12vh;
+
+}
+#header{
+    margin-top:-5vh;
+    padding-top:5vh;
+    padding-left:2vw;
+    font-size: 7vh;
+}
+.links{
+    width:15vw;
+    height:90vh;
+    display:table-cell;
+}
+#places{
+    color:orange;
+    text-align:center;
+    font-size: 3vh;
+}
