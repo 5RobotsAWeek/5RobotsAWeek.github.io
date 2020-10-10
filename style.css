@@ -1,6 +1,9 @@
 body{
     background-color:rgb(0,0,0);
 }
+a:visited{
+  color: orange;
+}
 .main{
     background-color:rgb(237, 157, 38);
     margin-left:0vw;
