@@ -28,7 +28,8 @@ body{
 }
 .video{
    width: 40vw;
-   height: 20vw;
+   height: 25vw;
+   margin:0 auto;
 }
 .blurb{
   width: 50vw;
